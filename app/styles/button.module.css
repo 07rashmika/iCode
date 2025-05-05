@@ -1,0 +1,53 @@
+.btn {
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+  
+  /* Variants */
+  .primary {
+    background-color: hsl(293, 52%, 20%);
+    color: white;
+  }
+  
+  .primary:hover {
+    background-color: #0055cc;
+  }
+  
+  .secondary {
+    background-color: hsl(295, 27%, 18%);
+    color: #333;
+  }
+  
+  .secondary:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .outline {
+    background-color: transparent;
+    border: 2px solid #0070f3;
+    color: #0070f3;
+  }
+  
+  .outline:hover {
+    background-color: #e6f0ff;
+  }
+  
+  /* Sizes */
+  .small {
+    padding: 0.4rem 1rem;
+    font-size: 0.875rem;
+  }
+  
+  .medium {
+    padding: 0.6rem 1.5rem;
+    font-size: 1rem;
+  }
+  
+  .large {
+    padding: 0.8rem 2rem;
+    font-size: 1.125rem;
+  }
+  
