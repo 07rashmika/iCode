@@ -34,6 +34,15 @@
   .outline:hover {
     background-color: #e6f0ff;
   }
+
+  .no_outline{
+    background-color: transparent;
+    border: none;
+  }
+
+  .no_outline:hover{
+    color: #0070f3;
+  }
   
   /* Sizes */
   .small {

@@ -3,6 +3,7 @@
     justify-content: space-around;
     align-items: center;
     margin-bottom: 5rem;
+    gap: 5rem;
 }
 
 .hero-text{
@@ -10,14 +11,11 @@
     flex-direction: column;
     align-items: start;
     gap: 2rem;
-}
-
-.hero-text-right{
-    display: flex;
-    flex-direction: column;
+    flex-basis: 50%;
 }
 
 .hero-image{
+    flex-basis: 50%;
     border-radius: 20px;
 }
 
