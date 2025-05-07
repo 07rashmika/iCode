@@ -6,7 +6,6 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Navigation from "../components/navigation"; 
 import styles from 'app/styles/home.css';
-import Button from '@components/Button';
 import Slider from '@components/Slider';
 import TwoGrid from '@components/TwoGrid';
 import { images1 } from '../../data/index.js';

@@ -9,7 +9,7 @@ const Slider = () => {
         <div className={styles.sliderTracker}>
             {[...Logos, ...Logos].map((logo) => (
                 <div className={styles.logo} key={logo.id + Math.random()}>
-                    <Image src={logo.img} alt='logo'width={150} height={120}/>
+                    <Image src={logo.img} alt='logo'width={150} height={120} className={styles.logoImg}/>
                 </div>
             ))}
         </div>

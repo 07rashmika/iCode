@@ -34,3 +34,54 @@ export const images3 = [
     '/2.jpg',
     '/1.jpg',
 ];
+
+export const benefits = [
+    {
+      id: "0",
+      title: "Web Developing",
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    //   backgroundUrl: "/react.svg",
+      iconUrl: '/react.svg',
+      imageUrl: '/react.svg',
+    },
+    {
+      id: "1",
+      title: "Mobile App Developing",
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    //   backgroundUrl: "/react.svg",
+      iconUrl: '/react.svg',
+      imageUrl: '/react.svg',
+    },
+    {
+      id: "2",
+      title: "PC Software Developing",
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    //   backgroundUrl: "./src/assets/benefits/card-3.svg",
+      iconUrl: '/react.svg',
+      imageUrl: '/react.svg',
+    },
+    {
+      id: "3",
+      title: "Game Developing",
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    //   backgroundUrl: "./src/assets/benefits/card-4.svg",
+      iconUrl: '/react.svg',
+      imageUrl: '/react.svg',
+    },
+    {
+      id: "4",
+      title: "Lorem ipsum",
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    //   backgroundUrl: "./src/assets/benefits/card-5.svg",
+      iconUrl: '/react.svg',
+      imageUrl: '/react.svg',
+    },
+    {
+      id: "5",
+      title: "Lorem ipsum",
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,",
+    //   backgroundUrl: "./src/assets/benefits/card-6.svg",
+      iconUrl: '/react.svg',
+      imageUrl: '/react.svg',
+    },
+  ];

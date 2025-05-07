@@ -56,7 +56,7 @@ const HeroImages = ({ image1Src, image2Src, image3Src }) => {
             width={350}
             height={300}
             alt={`cover 2 - ${index2}`}
-            className='images'
+            className='images imagesAlt'
           />
         )}
       </div>

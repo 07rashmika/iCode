@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
-import Button from '@components/Button';
+import Button from '@components/ui/Button';
 import HeroImages from '@components/HeroImages.jsx';
 
 const TwoGrid = ({ header, text, position, buttonLabel, buttonOnClick, buttonType, buttonVariant, buttonSize, buttonDisabled, buttonLink, image1, image2, image3 }) => 
